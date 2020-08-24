@@ -127,8 +127,8 @@
         background-image: url(../images/header-image.png);
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: left 0;
-        height: 80vh;
+        background-position: center;
+        height: 85vh;
     }
     
     h1 {
